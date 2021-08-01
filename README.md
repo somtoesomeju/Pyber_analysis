@@ -5,6 +5,7 @@ In this project, I created a summary of ride-sharing data between three city typ
 
 # Resources
 Data Source: city_data.csv, ride_data.csv
+
 Software: Python 3.8.8, Anaconda 4.10.3
 
 # Results
